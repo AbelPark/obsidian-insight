@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5070a52f244900ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSI 모형.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a5a5dd3dadc80ea8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UDP.md",
+                "file": "OSI 모형.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,18 +146,18 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5070a52f244900ce",
+  "active": "a5a5dd3dadc80ea8",
   "lastOpenFiles": [
+    "UDP.md",
     "프로토콜.md",
-    "패킷.md",
+    "프레임.md",
     "OSI 모형.md",
+    "Javascript.md",
+    "TCP.md",
+    "패킷.md",
     "브라우저 렌더링 과정.md",
     "라우팅.md",
-    "TCP.md",
-    "UDP.md",
     "네트워크.md",
-    "프레임.md",
-    "Javascript.md",
     "Pasted image 20231006142128.png",
     "Template/Default.md",
     "README.md",
