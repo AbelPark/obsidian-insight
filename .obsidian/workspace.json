@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "738aa98418f981a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TLS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42b522d5f854b85f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TLS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4a207b3e49f29888",
             "type": "leaf",
             "state": {
@@ -44,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTTPS.md",
+                "file": "TLS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTTPS.md",
+                "file": "TLS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTTPS.md"
+                "file": "TLS.md"
               }
             }
           }
@@ -172,10 +196,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "73a9cd8956fb9125",
+  "active": "42b522d5f854b85f",
   "lastOpenFiles": [
-    "HTTP.md",
+    "SSL.md",
+    "TLS.md",
     "HTTPS.md",
+    "HTTP.md",
     "프로토콜.md",
     "OSI 모형.md",
     "UDP.md",
