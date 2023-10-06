@@ -16,6 +16,7 @@ Open Systems Interconnection Reference Model
 
 ## L3 네트워크 계층
 
+
 ## L4 전송 계층
 
 ## L5 세션 계층
@@ -24,5 +25,3 @@ Open Systems Interconnection Reference Model
 
 ## L7 응용 프로그램 계층
 
-
-![[Pasted image 20231006142128.png]]
