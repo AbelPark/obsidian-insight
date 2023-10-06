@@ -20,7 +20,7 @@ Open Systems Interconnection Reference Model
 
 *인터넷은 네트워크 계층에 속하는 망이다.*
 
-대표 장치: Router, L3 Switch(인터넷 백본), 접속망에서 네트워크 패킷 트래픽을 중계, 라우팅할때 사용한다.)
+대표 장치: Router, L3 Switch(인터넷 백본), 접속망에서 네트워크 [[패킷]] 트래픽을 중계, 라우팅할때 사용한다.)
 ## L4 전송 계층
 
 
