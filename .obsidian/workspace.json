@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UDP.md",
+                "file": "OSI 모형.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UDP.md",
+                "file": "OSI 모형.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UDP.md",
+                "file": "OSI 모형.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UDP.md"
+                "file": "OSI 모형.md"
               }
             }
           }
@@ -149,13 +149,13 @@
   "active": "a5a5dd3dadc80ea8",
   "lastOpenFiles": [
     "TCP.md",
+    "Javascript.md",
+    "브라우저 렌더링 과정.md",
+    "프레임.md",
     "UDP.md",
     "OSI 모형.md",
     "프로토콜.md",
-    "프레임.md",
-    "Javascript.md",
     "패킷.md",
-    "브라우저 렌더링 과정.md",
     "라우팅.md",
     "네트워크.md",
     "Pasted image 20231006142128.png",
