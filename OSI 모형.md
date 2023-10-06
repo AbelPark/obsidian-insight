@@ -8,3 +8,9 @@ Open Systems Interconnection Reference Model
 *통신의 대명사인 TCP/IP는 이런 이론적 체계가 정립되기 전인 옛날에 설계되어 이에 잘 들어맞지 않는다. 대충 몇 개 계층에 두루뭉술 엮여있다.
 
 ## L1 물리계층
+
+## L2 데이터 링크 계층
+
+## L3 데이터 링크 계층
+
+## L4 데이터 링크 계층
