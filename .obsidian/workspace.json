@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4998c7988715701d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TCP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "브라우저 렌더링 과정.md",
+                "file": "TCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "브라우저 렌더링 과정.md",
+                "file": "TCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "브라우저 렌더링 과정.md"
+                "file": "TCP.md"
               }
             }
           }
@@ -146,15 +159,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e20d491e7ce9fce5",
+  "active": "4998c7988715701d",
   "lastOpenFiles": [
+    "브라우저 렌더링 과정.md",
+    "TCP.md",
     "Template/Default.md",
     "Javascript.md",
     "README.md",
     "2023-10-05.md",
-    "브라우저 렌더링 과정.md",
     "무제 파일.canvas",
-    "무제 파일.md",
     "Template",
     "Develop/무제 파일 1.md",
     "Develop/무제 파일.md",
