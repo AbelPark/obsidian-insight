@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSI 모형.md",
+                "file": "HTTP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a207b3e49f29888",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프로토콜.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSI 모형.md",
+                "file": "HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSI 모형.md",
+                "file": "HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSI 모형.md"
+                "file": "HTTP.md"
               }
             }
           }
@@ -149,12 +161,13 @@
   },
   "active": "a5a5dd3dadc80ea8",
   "lastOpenFiles": [
+    "OSI 모형.md",
+    "프로토콜.md",
+    "HTTP.md",
     "UDP.md",
     "TCP.md",
     "QUIC.md",
     "Javascript.md",
-    "프로토콜.md",
-    "OSI 모형.md",
     "프레임.md",
     "브라우저 렌더링 과정.md",
     "패킷.md",
