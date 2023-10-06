@@ -23,12 +23,8 @@
             "id": "5070a52f244900ce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSI 모형.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -43,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,14 +166,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5070a52f244900ce",
+  "active": "e20d491e7ce9fce5",
   "lastOpenFiles": [
     "Javascript.md",
+    "OSI 모형.md",
+    "Pasted image 20231006142128.png",
     "브라우저 렌더링 과정.md",
+    "TCP.md",
     "프레임.md",
     "UDP.md",
-    "OSI 모형.md",
-    "TCP.md",
     "Template/Default.md",
     "README.md",
     "2023-10-05.md",

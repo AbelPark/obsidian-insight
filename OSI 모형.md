@@ -26,3 +26,4 @@ Open Systems Interconnection Reference Model
 ## L7 응용 프로그램 계층
 
 
+![[Pasted image 20231006142128.png]]
