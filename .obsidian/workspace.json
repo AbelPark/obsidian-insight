@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "e673bd16f8d42518",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "패킷.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a5a5dd3dadc80ea8",
             "type": "leaf",
             "state": {
@@ -160,13 +172,16 @@
   },
   "active": "5070a52f244900ce",
   "lastOpenFiles": [
-    "Pasted image 20231006142128.png",
+    "라우팅.md",
     "OSI 모형.md",
-    "프레임.md",
-    "Javascript.md",
-    "브라우저 렌더링 과정.md",
     "TCP.md",
     "UDP.md",
+    "브라우저 렌더링 과정.md",
+    "네트워크.md",
+    "패킷.md",
+    "프레임.md",
+    "Javascript.md",
+    "Pasted image 20231006142128.png",
     "Template/Default.md",
     "README.md",
     "2023-10-05.md",
