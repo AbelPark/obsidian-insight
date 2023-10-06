@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "패킷.md",
+                "file": "OSI 모형.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15f6e7087b70305a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프로토콜.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "패킷.md",
+                "file": "프로토콜.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "패킷.md",
+                "file": "프로토콜.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "패킷.md"
+                "file": "프로토콜.md"
               }
             }
           }
@@ -170,15 +183,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5070a52f244900ce",
+  "active": "15f6e7087b70305a",
   "lastOpenFiles": [
     "OSI 모형.md",
+    "프로토콜.md",
+    "브라우저 렌더링 과정.md",
+    "패킷.md",
     "라우팅.md",
     "TCP.md",
     "UDP.md",
-    "브라우저 렌더링 과정.md",
     "네트워크.md",
-    "패킷.md",
     "프레임.md",
     "Javascript.md",
     "Pasted image 20231006142128.png",
