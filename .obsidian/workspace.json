@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSI 모형.md",
+                "file": "패킷.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSI 모형.md",
+                "file": "패킷.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSI 모형.md",
+                "file": "패킷.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSI 모형.md"
+                "file": "패킷.md"
               }
             }
           }
@@ -172,8 +172,8 @@
   },
   "active": "5070a52f244900ce",
   "lastOpenFiles": [
-    "라우팅.md",
     "OSI 모형.md",
+    "라우팅.md",
     "TCP.md",
     "UDP.md",
     "브라우저 렌더링 과정.md",
