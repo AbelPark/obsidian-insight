@@ -1,0 +1,1 @@
+QUIC ( Quick UDP Internet Connections ) 프로토콜은 Google을 통해 개발이 진행되었고, 지금은 표준 등록을 위해 준비한 따끈따끈한 프로토콜이라고 합니다. 2014 년에 그들은 Google 서비스, Chrome 및 모바일 앱에 대한 배포를 시작했습니다. 현재 QUIC는 모든 Google 관련 제품의 기본 프로토콜로 쓰이고 있습니다.

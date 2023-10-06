@@ -1,6 +1,6 @@
 tag:
 source: https://namu.wiki/w/UDP
-relate:
+relate: [[QUIC]]
 
 **U**ser **D**atagram **P**rotocol
 ## 개발배경
