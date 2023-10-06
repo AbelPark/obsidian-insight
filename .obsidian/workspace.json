@@ -143,19 +143,20 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "remotely-save:Remotely Save": false
     }
   },
   "active": "a5a5dd3dadc80ea8",
   "lastOpenFiles": [
-    "UDP.md",
     "QUIC.md",
     "OSI 모형.md",
-    "TCP.md",
-    "Javascript.md",
-    "브라우저 렌더링 과정.md",
     "프레임.md",
     "프로토콜.md",
+    "Javascript.md",
+    "UDP.md",
+    "TCP.md",
+    "브라우저 렌더링 과정.md",
     "패킷.md",
     "라우팅.md",
     "네트워크.md",
