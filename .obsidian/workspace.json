@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCP.md",
+                "file": "OSI 모형.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCP.md",
+                "file": "OSI 모형.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TCP.md",
+                "file": "OSI 모형.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCP.md"
+                "file": "OSI 모형.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "e20d491e7ce9fce5",
   "lastOpenFiles": [
-    "Javascript.md",
     "TCP.md",
+    "OSI 모형.md",
     "브라우저 렌더링 과정.md",
+    "Javascript.md",
     "Template/Default.md",
     "README.md",
     "2023-10-05.md",
